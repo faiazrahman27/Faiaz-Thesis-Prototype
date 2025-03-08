@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bijoy-pay",
+  "private_key_id": "59b9ed1af26f035595ecf7ba2f5bed63b75e32f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/QHu40iY4Mruc\nqTMyevVaL1D4d2PTKZWqDHW4572i6+42+AyFwNIMyLlP6TpMS8QcLEcuHIeKjucY\nilfsYx6PJK8efyasG9IdJNUwkotxr1zUT0ZpG9Ldwdfpi6I5uqp+aLOPpsExEJIN\nnKwdD6EhZP9xmJcFqc7AO0hgQpJ5TLV4GO7ER57sPgqxYCM4omXFFlgyQs3YIwzd\n6ntr+UBrIrzSl56ZHicqPrRIsVxeXQsGGeBxl4GQ3vWOjcHfRYBs43nNyXTfH1Gn\nfKnSpYe2imks9n+fcMMmIKR6poMDlDVV6zm8/TP83ZOyUZ2TNL3Sur5B8TLOW9qC\n3JYPATATAgMBAAECggEAJ9CZUScyvLVXGGyjE2nEpUM/dJKKTh4UocOZSGa6NG4w\nd/IYzUmQkQfCiG/R6qtFRuYy5VccIozQcGvwlO4noP4ulMc8ukzKZ7XQyh1f+Ulc\nJnjgfCZGNlNSCzU+Dw2cy9cpNoktI/VCqqHItP4ZedXIVhJBsnSg7aUJ0rxZOPYS\nS9Ya/9p3mYBjtBz8/NeMobtUlo9LMCnw4EiuJh9HIvg/+LRcfJZSN+2VtCQq6257\nRiA98e3uq6agPLdHLyAR4isnmXSk+3EwBYUkN/JNvsCDLlASyRB9UJa1OAORftqg\n+IKyjUcVGJiqqtQAv2RxdYpR4+nOl2uz9uJD6+j66QKBgQDwDYTzjqdxij9VUu1F\n8b2dHlqiMaj6Lrs0Aj8BbptH7kA/0x5CnqqlPW5DreCUs1Ft8WhAgndK8ozrbm9n\nPKE3r1RyMJeUrNhoLn35CLr7ixtP7Kx6RhsbmEmwZWKuPA78vnN7VgRh7EvKjiQF\n/V0rxzifo6cyFAICOyIMbA6u+QKBgQDL9QbHkE0OSGk+bU5IcqsTvNP3VsZIRLV2\nLTI8wjnRYUklAd6ahwfzBt79DgajtL0TNsI6p6E4Uwki0jse0a1WXiBziin/Cr+b\n5n7lrnItDm4dZEqjZDZXKQqo8L7rbatCC735c5QZs1G7RAtzU6jaJOF1VFtst5GE\nsk0Vlxv+awKBgANnHahaMFNysz0hZM2mBJsSkBRWgd+yA+NT2NLLX5YgcXa2Jmqp\nVx/qhAKfl1xkQlY9os2vS8ObNpYrxZaADIT+jkLkH3HzFUo8xnpePlBMg4GZiERf\ndAjrGrhOZ5yyqz+372kjKgK9V8GyTB5tngF93Hae2kLid7jSX8QvT/H5AoGAaTnd\naZCVcM0DH2YdgVtH0EMXyQBIBHkOdg4TYS2Dzva2WhWA15DbFRNycHSQEF3rPsJ9\nqu1ZTEnq6MA2KExddbXSYEnkKOVOvgxJZA6AcaaEQT3BFFNbhdRy3351wdkvBkAw\nn0Z2HlxZypfsoG+FKibk+zeug4Sh2yhyhLUViEkCgYArMYUgMI2LqBLymNCp0rzU\njZZ5IyyQEkKnU+QpdGWekpYUwLwJsHygGEgPCUl35VT3mDTADNudtvjlW28K1teg\n3yelLKcbhZEtrmIsN5Po68UqFqxn+FsategpAWFFPXazB8j10lcMsl/ITKwVF6kt\n0K4WoxQ/pDgdE0JC9TOFUg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-sghgw@bijoy-pay.iam.gserviceaccount.com",
+  "client_id": "106455045723963446952",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-sghgw%40bijoy-pay.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
